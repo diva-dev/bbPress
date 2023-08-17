@@ -1,5 +1,5 @@
 {
-	"name": "bbpress/bbpress",
+	"name": "diva-dev/bbpress",
 	"license": "GPL-2.0-or-later",
 	"description": "bbPress is forum software with a twist from the creators of WordPress.",
 	"require-dev": {

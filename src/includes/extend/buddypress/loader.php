@@ -31,6 +31,9 @@ if ( ! class_exists( 'BBP_Forums_Component' ) ) :
  */
 class BBP_Forums_Component extends BP_Component {
 
+	public $activity = null;
+	public $members = null;
+
 	/**
 	 * Start the forums component creation process
 	 *
